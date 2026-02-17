@@ -1,8 +1,10 @@
 Milk Quality Monitoring System 
+
 A low-cost, portable embedded system designed to ensure milk safety for small-scale dairy farmers and household consumers.
 
 
 Overview
+
 This project uses an Arduino Uno and electronic sensors to instantly detect bacterial spoilage and estimate fat content. It provides a clear "Safe/Unsafe" status, making it accessible for non-technical users.
 
 
