@@ -1,16 +1,17 @@
-Milk Quality Monitoring System 
+Milk Quality Monitoring System 🥛
 
 A low-cost, portable embedded system designed to ensure milk safety for small-scale dairy farmers and household consumers.
 
 
-Overview
+🔍 Overview
 
 This project uses an Arduino Uno and electronic sensors to instantly detect bacterial spoilage and estimate fat content. It provides a clear "Safe/Unsafe" status, making it accessible for non-technical users.
 
 
-Features
+🛠️ Features
 
 Spoilage Detection: Uses a custom conductivity probe to detect the sharp increase in voltage caused by lactic acid in sour milk.
+
 
 
 
@@ -18,14 +19,16 @@ Fat Estimation: Utilizes an optical turbidity chamber (Green LED + LDR) to appro
 
 
 
+
 Instant Feedback: Displays results on a 16x2 LCD screen within 1 second.
+
 
 
 
 Low Cost: Built using off-the-shelf components to ensure affordability.
 
 
-Hardware Components
+📋 Hardware Components
 
 Microcontroller: Arduino Uno (ATmega328P) 
 
@@ -38,7 +41,8 @@ Sensors: LDR (GL5528) and Custom Conductivity Probes
 
 Light Source: 5mm Green LED 
 
-How it Works
+🚀 How it Works
+
 The system initializes and reads the analog values from the sensors.
 
 
